@@ -48,26 +48,14 @@ Built with Python, CustomTkinter, and COM automation for smooth document convers
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Download The Converter ZIP from Realease Section
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install the required libraries
-
-```bash
-pip install customtkinter pywin32 pdf2docx PyMuPDF reportlab
+Run .exe file after Unzipping and Enjoy
 ```
 
 > Note: This app works on Windows systems since it uses MS Office COM automation.
 
-### 3. Run the application
-
-```bash
-Run .exe file
-```
 
 ---
 
