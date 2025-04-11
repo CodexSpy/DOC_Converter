@@ -48,7 +48,7 @@ Built with Python, CustomTkinter, and COM automation for smooth document convers
 
 ## 🚀 Getting Started
 
-### 1. Download The Converter ZIP from Realease Section
+#### 1. Download The Converter ZIP from Release Section
 
 ```bash
 Run .exe file after Unzipping and Enjoy
