@@ -64,7 +64,7 @@ pip install customtkinter pywin32 pdf2docx PyMuPDF reportlab
 ### 3. Run the application
 
 ```bash
-python app.py
+Run .exe file
 ```
 
 ---
@@ -108,8 +108,7 @@ Special thanks to the creators of:
 
 Feel free to connect with me:
 
-- GitHub: [your-github-username](https://github.com/your-github-username)  
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)  
+- LinkedIn: [Moin khan](https://www.linkedin.com/in/moin-khan-0335b4245/)
 
 ---
 
