@@ -4,6 +4,8 @@ A Simple & Powerful Desktop App to quickly convert files between formats like Wo
 
 Built with Python, CustomTkinter, and COM automation for smooth document conversions. 🚀
 
+![](assets/Banner.png)
+
 ---
 
 ## ✨ Features
