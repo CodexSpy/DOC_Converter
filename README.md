@@ -23,8 +23,12 @@ Built with Python, CustomTkinter, and COM automation for smooth document convers
 
 ## 📸 Screenshots
 
-**Home Screen** | **After Conversion**  
-*(Add screenshots later!)*
+### Home Screen
+![Home Screen](assets/BeforeConversion.png)
+
+### After Conversion
+![After Conversion](assets/AfterConversion.png)
+
 
 ---
 
